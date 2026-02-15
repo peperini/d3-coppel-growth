@@ -53,7 +53,7 @@ async function chart(data) {
 
 async function data(projection, parseDate) {
     return (
-        (await d3.tsv("./data/coppel-tsv-v2.tsv")).map(d => {
+        (await d3.tsv("coppel-tsv-v2.tsv")).map(d => {
             const p = projection(d);
             p.date = parseDate(d.date);
             p.formato = d.formato;
