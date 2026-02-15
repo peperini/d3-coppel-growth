@@ -20,7 +20,7 @@ body {
 
 }
 
-.container {
+.wrapper {
     position: fixed;
     width: 100%;
     display: flex;
@@ -59,4 +59,9 @@ a {
 a:hover {
     color: #fdda24;
     text-decoration: underline;
+}
+
+.header__alert {
+    text-align: center;
+    padding: 0.5rem 0 0 0;
 }
