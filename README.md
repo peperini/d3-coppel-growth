@@ -1,7 +1,5 @@
 # Coppel Growth in México
 
-[![Website Preview](preview.png)](https://your-website-url.com)
-
 Interactive data visualization map that shows the expansion of Coppel retail stores over the last 60 years.
 On January 1, 1956 in Culiacan, Sinaloa, the first Coppel store opened.
 
@@ -9,7 +7,9 @@ This repository contains the source code for an interactive and visually engagin
 
 ## Demo
 
-See live (here
+[See live here](https://d3-coppel-growth.vercel.app/)
+
+https://d3-coppel-growth.vercel.app/
 
 ## Installation
 
