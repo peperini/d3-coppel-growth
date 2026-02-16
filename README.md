@@ -9,8 +9,6 @@ This repository contains the source code for an interactive and visually engagin
 
 [See live here](https://d3-coppel-growth.vercel.app/)
 
-https://d3-coppel-growth.vercel.app/
-
 ## Installation
 
 To run this project locally, follow these steps:
@@ -44,4 +42,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me:
 
-- Email: josearmando.zara@gmail.com
+- Email: hey@josefelix.co
